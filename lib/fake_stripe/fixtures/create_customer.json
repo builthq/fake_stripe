@@ -19,7 +19,7 @@
   "discount": null,
   "account_balance": 0,
   "currency": "usd",
-  "cards": {
+  "sources": {
     "object": "list",
     "count": 1,
     "url": "/v1/customers/abcdefghijklmnop/cards",
